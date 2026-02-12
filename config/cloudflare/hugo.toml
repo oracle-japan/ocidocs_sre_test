@@ -1,0 +1,3 @@
+
+baseURL = '/ocidocs_sre_test/'
+publishDir = "public/ocidocs_sre_test"
